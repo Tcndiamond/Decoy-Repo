@@ -10,3 +10,5 @@ plt.xlabel("Time in seconds")
 plt.ylabel("Amplitude")
 plt.title("Sinewave of 2Hz")
 plt.show()
+
+#Hi
